@@ -2,4 +2,4 @@
 
 <img width="579" height="443" alt="image" src="https://github.com/user-attachments/assets/e4d00387-a629-4887-8b44-822140131369" />
 
-<img width="661" height="482" alt="obraz" src="https://github.com/user-attachments/assets/d4096902-fc52-4ec3-bb7d-de659a19b216" />
+<img width="672" height="496" alt="obraz" src="https://github.com/user-attachments/assets/fc974f49-6410-4ce3-9a3c-6b0ea34e7c37" />
